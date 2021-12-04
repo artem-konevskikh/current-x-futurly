@@ -1,2 +1,2 @@
 # current-x-futurly
-Current.cam workshop "Volumetric Personas" for Futurly
+Current.cam "Volumetric Personas" workshop for Futurly
